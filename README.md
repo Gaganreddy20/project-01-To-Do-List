@@ -41,7 +41,7 @@ A simple, responsive To-Do List application that helps students organize daily t
 ## Preview
 
 ![To-Do List Screenshot]
-(screenshots/To-Do list.png)
+(screenshots/https://github.com/Gaganreddy20/project-01-To-Do-List/blob/c3ba3b1890f60adc15ee47b658e053de91a69bc2/screenshots/To-Do%20list.png)
 
 ## What I Learned
 
