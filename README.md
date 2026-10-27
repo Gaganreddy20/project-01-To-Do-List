@@ -40,7 +40,8 @@ A simple, responsive To-Do List application that helps students organize daily t
 
 ## Preview
 
-_Add a screenshot of your application here._
+![To-Do List Screenshot]
+(screenshots/To-Do list.png)
 
 ## What I Learned
 
